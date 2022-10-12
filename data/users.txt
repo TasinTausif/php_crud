@@ -1,0 +1,2 @@
+fruit,d0be2dc421be4fcd0172e5afceea3970e2f3d940,admin
+flower,7b7074fca36fc89fb3f1e3c46d74f6ffe2477a09,editor
